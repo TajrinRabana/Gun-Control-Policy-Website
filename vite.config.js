@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Gun-Control-Policy-Website/',
+  base: '/Gun_Control_Policy_Website/',
 })
